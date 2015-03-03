@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <DefaultLanguage xmlns="" code="en" />
+  <Languages xmlns="">
+    <Language code="en" />
+  </Languages>
+  <App xmlns="" ProductID="{89153225-003c-42c4-aacd-e3ad89c06348}" Title="Duco" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Hovo Khachikyan" Description="Draw is an ad-free drawing application suitable for both adults and kids. &#xD;&#xA;Features&#xD;&#xA;- Import Images from gallery&#xD;&#xA;- Custom brush size&#xD;&#xA;- Color pallate&#xD;&#xA;- Save drawing on SD card.&#xD;&#xA;- Unlimited undo" Publisher="Hovokhc" PublisherID="{ea9489b8-b5c5-4b9a-95ab-ce7ba9710f45}">
+    <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_MEDIALIB_PHOTO" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="fingerpaintToken" TaskName="_default">
+        <TemplateCycle>
+          <SmallImageURI IsRelative="true" IsResource="false">small.png</SmallImageURI>
+          <Title>Duco</Title>
+          <Photo01ImageURI IsRelative="true" IsResource="false">Images\1.png</Photo01ImageURI>
+          <Photo02ImageURI IsRelative="true" IsResource="false">Images\9.png</Photo02ImageURI>
+          <Photo03ImageURI IsRelative="true" IsResource="false">Images\3.png</Photo03ImageURI>
+          <Photo04ImageURI IsRelative="true" IsResource="false">
+          </Photo04ImageURI>
+          <Photo05ImageURI IsRelative="true" IsResource="false">
+          </Photo05ImageURI>
+          <Photo06ImageURI IsRelative="true" IsResource="false">
+          </Photo06ImageURI>
+          <Photo07ImageURI IsRelative="true" IsResource="false">
+          </Photo07ImageURI>
+          <Photo08ImageURI IsRelative="true" IsResource="false">
+          </Photo08ImageURI>
+          <Photo09ImageURI IsRelative="true" IsResource="false">
+          </Photo09ImageURI>
+          <Count>0</Count>
+          <HasLarge>True</HasLarge>
+          <DeviceLockImageURI IsRelative="true" IsResource="false">
+          </DeviceLockImageURI>
+        </TemplateCycle>
+      </PrimaryToken>
+    </Tokens>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>

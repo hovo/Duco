@@ -1,0 +1,14 @@
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\ARM\Release\ApplicationIcon.png
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\ARM\Release\Draw.dll
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\ARM\Release\Draw.pdb
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\ARM\Release\AppManifest.xaml
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\ARM\Release\Properties\WMAppManifest.xml
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\ARM\Release\fingerpaint_Release_ARM.xap
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\ARM\Release\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\ARM\Release\App.g.cs
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\ARM\Release\About.g.cs
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\ARM\Release\MainPage.g.cs
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\ARM\Release\Draw.g.resources
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\ARM\Release\Draw.dll
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\ARM\Release\Draw.pdb
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\ARM\Release\XapCacheFile.xml

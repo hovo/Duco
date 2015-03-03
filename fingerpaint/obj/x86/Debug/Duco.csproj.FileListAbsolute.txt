@@ -1,0 +1,15 @@
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\x86\Debug\ApplicationIcon.png
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\x86\Debug\Draw.dll
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\x86\Debug\Draw.pdb
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\x86\Debug\AppManifest.xaml
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\x86\Debug\fingerpaint_Debug_x86.xap
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\x86\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\x86\Debug\App.g.cs
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\x86\Debug\About.g.cs
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\x86\Debug\MainPage.g.cs
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\x86\Debug\Draw.g.resources
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\x86\Debug\Draw.dll
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\x86\Debug\Draw.pdb
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\x86\Debug\XapCacheFile.xml
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\x86\Debug\Duco.csprojResolveAssemblyReference.cache

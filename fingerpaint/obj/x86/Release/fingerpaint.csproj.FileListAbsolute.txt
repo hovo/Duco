@@ -1,0 +1,15 @@
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\x86\Release\ApplicationIcon.png
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\x86\Release\Draw.dll
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\x86\Release\Draw.pdb
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\x86\Release\AppManifest.xaml
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\x86\Release\Properties\WMAppManifest.xml
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\x86\Release\fingerpaint_Release_x86.xap
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\Bin\x86\Release\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\x86\Release\fingerpaint.csprojResolveAssemblyReference.cache
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\x86\Release\App.g.cs
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\x86\Release\About.g.cs
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\x86\Release\MainPage.g.cs
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\x86\Release\Draw.g.resources
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\x86\Release\Draw.dll
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\x86\Release\Draw.pdb
+C:\Users\Hovo\Desktop\Dev\Draw\fingerpaint\obj\x86\Release\XapCacheFile.xml
